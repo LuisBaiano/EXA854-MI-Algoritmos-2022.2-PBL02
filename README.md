@@ -1,0 +1,5 @@
+# Jogo das Somas 2.0
+
+**Abstract**: seeking educational alternatives for their amusement during the harsh winters, the brothers Lara and Liam proposed to the Students of the Computer Engineering Course of the State University of Feira de Santana the creation of an educational game called Soma-sudoku or Jogo das Somas 2.0. The proposed game provokes the creation of a source code for the development of its interface and levels. For the development, the python language was used. In conclusion, the system does not meet all the requirements that were requested.
+
+**Resumo**: Buscando alternativas educativas para sua diversão durante os invernos rigorosos, os irmãos Lara e Liam propuseram aos Alunos do Curso de Engenharia de Computação da Universidade Estadual de Feira de Santana a criação de um jogo educativo chamado de Soma-Sudoku ou Jogo das Somas 2.0. O jogo proposto provoca a criação de um código fonte para o desenvolvimento de sua interface e níveis. Para o desenvolvimento, foi utilizada a linguagem python. Em conclusão, o sistema não cumpre com todos os requisitos que foram solicitados.
